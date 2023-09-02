@@ -1,13 +1,356 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport"
-        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: indianred;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .header {
+      background-color: #97846D;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+    }
+
+    .logo {
+      margin: 10px;
+    }
+
+    .menu {
+      background-color: springgreen;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 10px 20px;
+    }
+
+    .menu span {
+      background-color: gold;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .content img {
+      max-width: 100%;
+      height: auto;
+
+      width: auto;
+
+
+    }
+
+    /* Frame 1 */
+    .Frame {
+      position: relative;
+      width: 832px;
+      height: 3672px;
+      background: rgba(228, 125, 102, 0.31);
+    }
+
+    /* Rectangle 2 */
+    .Frame .Rectangle2 {
+      position: absolute;
+      width: 836px;
+      height: 102px;
+      left: 0px;
+      top: 0px;
+      background: #97846D;
+    }
+
+    /* Rectangle 1 */
+    .Frame .Rectangle1 {
+      position: absolute;
+      width: 111px;
+      height: 102px;
+      left: 11px;
+      top: 0px;
+      /* background: url(image.png);*/
+    }
+
+    /* Home */
+
+    .Frame .Home {
+      position: absolute;
+      width: 88px;
+      height: 22px;
+      left: 191px;
+      top: 46px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 29px;
+      color: #000000;
+    }
+
+    /* MENU */
+    .Frame .Menu {
+      position: absolute;
+      width: 82px;
+      height: 32px;
+      left: 301px;
+      top: 48px;
+      /*<!---font-family: 'Inter'; -->*/
+      font-style: normal;
+      font-weight: 9000;
+      font-size: 245px;
+      line-height: 29px;
+      color: #000000;
+    }
+
+    /* More CSS for other elements... */
+    /* Frame 1 */
+    .Frame {
+      position: relative;
+      width: 832px;
+      height: 3672px;
+      background: rgba(228, 125, 102, 0.31);
+    }
+
+    /* Rectangle 2 */
+    .Frame .Rectangle2 {
+      position: absolute;
+      width: 836px;
+      height: 102px;
+      left: 0px;
+      top: 0px;
+      background: #97846D;
+    }
+
+    /* Rectangle 1 */
+    .Frame .Rectangle1 {
+      position: absolute;
+      width: 111px;
+      height: 102px;
+      left: 11px;
+      top: 0px;
+      /*background: url(image.png);*/
+    }
+
+    /* Home */
+    .Frame .Home {
+      position: absolute;
+      width: 88px;
+      height: 22px;
+      left: 191px;
+      top: 46px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 29px;
+      color: #000000;
+    }
+
+    /* MENU */
+    .Frame .Menu {
+      position: absolute;
+      width: 82px;
+      height: 32px;
+      left: 301px;
+      top: 48px;
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 29px;
+      color: #000000;
+    }
+
+    /* More CSS for other elements... */
+
+    @media (max-width: 768px) {
+      .menu {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+      }
+
+      .menu span {
+        display: block;
+        margin: 5px 0;
+      }
+
+
+    }
+  </style>
   <title>Azhar Hussain Buriro</title>
 </head>
 <body>
-<h1>welcome back Azhar </h1>
+<div class="header">
+  <div class="logo">
+    <img src="Rectangle%201-1.png" alt="logo">
+  </div>
+  <div class="menu">
+    <span>Home</span>
+    <span>Menu</span>
+    <span>About</span>
+    <span>Contact</span>
+  </div>
+</div>
+<!--- ////*i think ihis rough */ --->
+<div style=" display: flex ; gap:5px; margin-top: 300px">
+  <div class="content">
+        <span><u><i>From classic chocolate chip to exotic macadamia matcha,
+            our diverse selection offers something for every palate.
+            Whether you're treating yourself or searching for the perfect gift,
+            our cookies are a heartfelt way to share happiness with those you care about
+            .From classic chocolate chip to exotic macadamia matcha, our diverse selection offers
+            something for every palate.
+            Whether you're treating yourself or searching for the perfect gift,
+            our cookies are a heartfelt way to share happiness with those you care about. </i></u></span>
+
+  </div>
+  <div class="content img" style=" margin-left: 50px">
+
+    <img src="image%201.png" alt="logo " width="406px" height="406px">
+  </div>
+</div>
+
+
+<div style="background-color: #97846D; display: flex; align-items: center; justify-content: center; height: 100px;">
+  <span style="font-size: 24px; color: black;">Menu</span>
+</div>
+
+<div class=".Frame .Menu">
+
+  <h1 style=" font-style: normal;font-weight: 900;font-size: 32px;line-height: 32px;color: #000000; padding: 32px">
+    Breakfast Pastries: </h1>
+  <ul>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Croissants
+      (plain, almond, chocolate-filled)
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Danish
+      pastries (fruit-filled, cream cheese, cinnamon)
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Muffins
+      (blueberry, chocolate chip, bran)
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Scones
+      (cranberry-orange, lemon-poppyseed)
+    </li>
+    <h1 style=" font-style: normal;font-weight: 900;font-size: 32px;line-height: 32px;color: #000000;padding: 32px">
+      Breads:</h1>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Baguettes
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Sourdough
+      loaves
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Whole wheat
+      bread
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Rye bread
+    </li>
+    <li style=" font-style: normal;font-weight: 900;font-size: 24px;line-height: 29px;color: #000000;">Focaccia
+      (various toppings like rosemary and olive oil)
+    </li>
+  </ul>
+</div>
+
+
+<div style="display: flex ; align-items: center;justify-content: center">
+  <table>
+    <tr>
+      <td><img style="   width: 371px; height: 200px;  ; " src="image%203.png" alt="imge"/></td>
+      <td rowspan="2"><img style="width: 429px; height: 436px;" src="image%205.png" alt="imge"/></td>
+    </tr>
+    <tr>
+      <td><img style="  width:  371px; height: 236px; " src="image%204.png" alt="imge"/></td>
+
+    </tr>
+  </table>
+
+
+</div>
+
+<div style="  background-color:indianred ;align-items: center; justify-content: center  ; height: 50px"></div>
+
+
+<div style="background-color: #97846D;display: flex; align-items: center ; justify-content: center ; height: 100px;">
+  <span style="font-size: 24px;color: black;">About</span>
+</div>
+
+<div style="  background-color:indianred ;align-items: center; justify-content: center  ; height: 700px">
+
+
+  <h1 style=" width: 712px;height: 657px;font-style: normal;font-weight: 600;font-size: 32px;line-height: 40px; margin-left: 150px "> Bakers
+    <br>
+    Passionately baking since 1880, Schulstad Bakery Solutions is a brand that stands proudly upon its heritage and expertise, while embracing the most modern baking techniques.
+    Our dedicated bakers combine over a century of baking experience and knowledge of tradition to develop
+    delicious pastries with superior taste, aroma and structure.
+    Schulstad offers a flavorful range of gourmet Danish pastries and croissants that are
+    ready-to-bake and easy to customize for quick, casual and convenient services.
+    From icing and glazes, to unique toppings and decorations, to innovative baking ideas,
+    there are endless possibilities with Schulstad pastries.</h1>
+
+
+
+
+
+</div>
+
+
+<div style="background-color: #97846D ; display: flex; align-items: center ; justify-content: center ; height: 100px">
+  <span style="font-size: 24px; color: black  ">Contact</span>
+
+</div>
+
+<div style="width: 590px ; height: 900px ; margin-left: 250px">
+  <br><br> <br>
+  <h1><u><i>Company Name:[XYZ]</i></u></h1>
+  <br><br> <br>
+  <span style="  height: 60px ;  margin-left: 150px; font-weight: 700; font-size: 24px; line-height: 29px;">
+        <br><br> <br>
+        [ Bakery Name = XYZ ] <br>
+        [ Location_1 = XYZ ] <br>
+        [ Location_2  = XYZZ an other ]<br>
+        [City, State ZIP Code = 65300 ] <br>
+        [Phone Number = 0439463983]<br>
+        [Email Address ab93403@gamil.com ]<br>
+        [www.ab93403] <br> <br> <br>
+
+
+        Contact Person:[Name] <br>
+        Position: [Position] <br>
+        Phone: [Phone Number]<br>
+        Email:[Email Address]<br> <br> <br>
+
+
+
+        Business Hours: <br>
+        Monday - Saturday: <br>[Opening Time] -&nbsp;[Closing Time] <br> <!-- &nbsp; added here -->
+        Sunday: <br>
+        [Opening Time] -&nbsp;[Closing Time]<br><!-- &nbsp; added here -->
+        <br><br><br> <!-- Add this line to maintain spacing -->
+
+
+        SocialMedia: <br>
+
+
+
+        Facebook: [Facebook URL] <br>
+        Instagram: [Instagram URL] <br>
+        Twitter: [Twitter Handle]<br><br><br><br>
+    </span>
+</div>
+
+
+
+
 </body>
 </html>
