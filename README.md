@@ -8,7 +8,7 @@ I'm a software engineer with a deep passion for building innovative and efficien
 - 🔭 I’m currently working on enhancing my skills in cloud-native technologies and MLOps.
 - 🌱 I’m always learning and exploring new frontiers in web and mobile development.
 - 💬 Ask me about **JavaScript, Python, React, Node.js,** or anything from my tech stack below!
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[your-email@example.com](mailto:aburiro40@gmail.com)**
 - 😄 Fun fact: I believe a good laugh is as important as clean code!
 
 ---
@@ -19,7 +19,7 @@ I'm a software engineer with a deep passion for building innovative and efficien
   <a href="https://twitter.com/azharhussainbu9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://pk.linkedin.com/in/azhar-hussain-%f0%9f%91%8c-%e2%9c%85seo-%e2%9c%85website-%e2%9c%85social-media-%f0%9f%a4%abexpert-a3816624b" target="_blank">
+  <a href="https://pk.linkedin.com/in/azhar-hussain-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
