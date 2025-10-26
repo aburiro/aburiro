@@ -8,7 +8,7 @@ I'm a software engineer with a deep passion for building innovative and efficien
 - 🔭 I’m currently working on enhancing my skills in cloud-native technologies and MLOps.
 - 🌱 I’m always learning and exploring new frontiers in web and mobile development.
 - 💬 Ask me about **JavaScript, Python, React, Node.js,** or anything from my tech stack below!
-- 📫 How to reach me: **[your-email@example.com](mailto:aburiro40@gmail.com)**
+- 📫 How to reach me: **[aburiro@gmail.com](mailto:aburiro40@gmail.com)**
 - 😄 Fun fact: I believe a good laugh is as important as clean code!
 
 ---
