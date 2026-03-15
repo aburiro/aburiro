@@ -1,24 +1,24 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Azhar%20Hussain%20Buriro&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full%20Stack%20%7C%20Open%20Source%20Contributor&amp;descAlignY=60&amp;descSize=16" width="100%"/>
- 
+
 </div>
- 
+
 <br/>
- 
+
 <div align="center">
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
- 
+
 </div>
- 
+
 ---
 
 ## 👋 About Me
 
 Hey! I'm **Azhar** — a Software Engineer from **Sukkur, Sindh, Pakistan** 🇵🇰 with a passion for building things people actually use. I work across the full stack, but my current focus is **mobile application development** with Flutter & Dart.
 
-I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **ZBMTECH**, and I teach Flutter at **PITP**. I'm also an active open source contributor — with merged PRs in **CCExtractor** and ongoing contributions to **RocketChat** as I gear up for **GSoC 2026** 🚀
+I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **ZBMTECH**, and I teach Flutter at **PITP**. I'm also an active open source contributor — with merged PRs in **RocketChat** and contributions to **CCExtractor** as I gear up for **GSoC 2026** 🚀
 
 - 🔭 **Currently building:** Cross-platform mobile apps with Flutter
 - 🌱 **Learning:** Cloud-native, MLOps, advanced Flutter architectures
@@ -44,7 +44,7 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 
 ```
 ⭐ GSoC 2026 Applicant — Proposals submitted!
-🔀 Pull Request Submitted — RocketChat
+🔀 Merged Pull Request — RocketChat
 🤝 Contributor — CCExtractor Organization
 ```
 
@@ -86,8 +86,8 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools & Platforms
@@ -102,27 +102,27 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aburiro&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=aburiro&amp;label=Profile+Views&amp;color=7C3AED&amp;style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aburiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburiro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aburiro&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;icon_color=7C3AED&amp;text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburiro&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7C3AED&amp;text_color=C9D1D9"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aburiro&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aburiro&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=7C3AED&amp;fire=7C3AED&amp;currStreakLabel=7C3AED" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aburiro&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aburiro&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=7C3AED&amp;line=7C3AED&amp;point=FFFFFF" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -130,7 +130,7 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aburiro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aburiro&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -150,7 +150,7 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%"/>
 
 *"Building from Sukkur to the world 🌍 — one commit at a time."*
 
