@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azhar%20Hussain%20Buriro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full%20Stack%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Azhar%20Hussain%20Buriro&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full%20Stack%20%7C%20Open%20Source%20Contributor&amp;descAlignY=60&amp;descSize=16" width="100%"/>
+ 
 </div>
-
+ 
 <br/>
-
+ 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
-
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+ 
 </div>
-
+ 
 ---
 
 ## 👋 About Me
