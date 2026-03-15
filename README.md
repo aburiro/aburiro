@@ -1,18 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Azhar%20Hussain%20Buriro&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full%20Stack%20%7C%20Open%20Source%20Contributor&amp;descAlignY=60&amp;descSize=16" width="100%"/>
-
+<svg width="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <path id="wave-bottom" d="M0,160 C200,200 600,120 800,160 L800,200 L0,200 Z"/>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)"/>
+  <use href="#wave-bottom" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="60" cy="50" r="30" fill="rgba(124,58,237,0.2)"/>
+  <circle cx="740" cy="150" r="40" fill="rgba(124,58,237,0.15)"/>
+  <circle cx="700" cy="40" r="20" fill="rgba(255,255,255,0.05)"/>
+  <text x="400" y="90" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff">Azhar Hussain Buriro</text>
+  <text x="400" y="130" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#a78bfa">Software Engineer · Mobile &amp; Full Stack · Open Source Contributor</text>
+  <text x="400" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7c6fcd">Sukkur, Pakistan 🇵🇰 · GSoC 2026 Applicant</text>
+</svg>
+ 
 </div>
-
+ 
 <br/>
-
+ 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
-
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+ 
 </div>
-
+ 
 ---
+
 
 ## 👋 About Me
 
