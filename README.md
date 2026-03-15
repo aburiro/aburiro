@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Node.js+Engineer;GSoC+2026+Applicant+%F0%9F%8C%9F;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+from+Sukkur%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,9 @@
 
 ## 👋 About Me
 
-Hey! I'm **Azhar** — a Software Engineer from **Sukkur, Sindh, Pakistan** 🇵🇰 with a passion for building things people actually use. I work across the full stack, but my current focus is **mobile application development** with Flutter & Dart.
+Hey! I'm **Azhar** — a Software Engineer from **Sukkur, Sindh, Pakistan** 🇵🇰 with a passion for building things people actually use. My current focus is **mobile application development** with Flutter and Dart.
 
-I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **ZBMTECH**, and I teach Flutter at **PITP**. I'm also an active open source contributor — with merged PRs in **RocketChat** and contributions to **CCExtractor** as I gear up for **GSoC 2026** 🚀
+I've interned at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **ZBMTECH**, and I teach Flutter at **PITP**. Active open source contributor with merged PRs in  **CCExtractor** and ongoing contributions to **RocketChat** — gearing up for **GSoC 2026** 🚀
 
 - 🔭 **Currently building:** Cross-platform mobile apps with Flutter
 - 🌱 **Learning:** Cloud-native, MLOps, advanced Flutter architectures
@@ -29,7 +29,7 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 
 ---
 
-## 🌍 Experience & Journey
+## 🌍 Experience
 
 | 🏢 Organization | 🎯 Role | 📍 Location |
 |:---|:---|:---|
@@ -44,7 +44,7 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 
 ```
 ⭐ GSoC 2026 Applicant — Proposals submitted!
-🔀 Merged Pull Request — RocketChat
+🔀 Pull Request Submitted — RocketChat
 🤝 Contributor — CCExtractor Organization
 ```
 
@@ -85,12 +85,12 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases and Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -127,7 +127,7 @@ I've been lucky to intern at **IntelliVerse (Dubai 🇦🇪)**, **SIBA**, and **
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aburiro&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7" alt="GitHub Trophies"/>
